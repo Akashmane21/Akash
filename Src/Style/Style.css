@@ -11,7 +11,7 @@ body{
 .main_body{
         margin-top: 60px;
 padding-left: 10px;
-padding-right: 10px;
+/* padding-right: 10px; */
     height: auto;
     width: 100%;
     overflow: hidden;
