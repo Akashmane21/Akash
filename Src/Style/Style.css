@@ -1,6 +1,7 @@
 *{
    
     margin: 0px;
+    padding: 0px;
   
 }
 
@@ -10,8 +11,7 @@ body{
 
 .main_body{
         margin-top: 60px;
-padding-left: 10px;
-padding-right: 10px;
+padding: 10px;
     height: auto;
     width: 98%;
     overflow: hidden;
@@ -55,7 +55,7 @@ padding-right: 10px;
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.767);
     border-radius: 10px;
     border: 1px solid rgba(255,255,255,0.18);
-    
+    padding-right: 10px;
 
 }
 
