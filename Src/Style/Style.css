@@ -57,6 +57,11 @@ padding-right: 10px;
 
 }
 
+#tex{
+    color: green;
+    text-decoration: none;
+}
+
 .slider{
     padding-top: 6px;
     font-size: 20px;
