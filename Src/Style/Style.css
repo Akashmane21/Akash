@@ -527,9 +527,10 @@ border-radius: 10px;
   
 
   #footerdp{
-      /* height: 100px; */
+      height: 100px;
       padding: 10%;
       border-radius: 20%;
+      width: 100px;
   }
 
   s{
